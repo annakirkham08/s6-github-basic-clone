@@ -1,3 +1,7 @@
 git is not the same as github
 every commit has a unique hash
 HEAD points to the current commit you are on
+
+You can download anything you want from someone's public repository
+Repos can be public or private
+The default branch is called main instead of master
